@@ -1,0 +1,12 @@
+body {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+// putting broswersync notification at bottom of dom, because the top is annoying
+#__bs_notify__ {
+  top: auto!important;
+  bottom: 0!important;
+  border-radius: 0!important;
+  opacity: .5;
+}

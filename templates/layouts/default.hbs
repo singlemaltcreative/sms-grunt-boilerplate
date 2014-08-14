@@ -1,0 +1,21 @@
+<!DOCTYPE html> 
+<html lang ="en">
+  <!-- DONT EDIT THIS FILE. EDIT ONLY HBS FILES IN TEMPLATES -->
+  <head> 
+      <meta charset ="UTF-8"> 
+      <title>{{ title }}</title>
+      <meta name="description" content="{{ description }}">
+      <meta name="viewport" content="width=device-width">
+      {{> head-includes }}
+  </head> 
+  <body> 
+      <header class="main-header">
+      {{> header }}
+      </header>
+      {{> body }} 
+      <footer class="main-footer">
+        {{> footer }} 
+      </footer>
+      {{> footer-includes }} 
+  </body>
+</html>
