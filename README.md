@@ -1,7 +1,7 @@
 sms-grunt-boilerplate 1.0
 =================
 
-Our own grunt-powered boilerplate for static sites, using BrowserSync, Assemble.io, and Sass.
+Our own grunt-powered boilerplate for static sites, using BrowserSync, Assemble, and Sass.
 
 This particluar flavor is for static HTML sites, and makes use of the plugins listed in package.json
 
@@ -27,7 +27,7 @@ It is important however, that you be familiar with using and configuring Grunt b
 
 ###Configure Gruntfile.js to suit your needs.	
 
-If you are having issues, make sure that your are pointing watch, concat, uglify, sass, browserSync, etc, to the appropriate directories in your project.
+If you are having issues, make sure that you are pointing watch, concat, uglify, sass, browserSync, etc, to the appropriate directories in your project.
 
 ###Once the above is taken care of:
 
