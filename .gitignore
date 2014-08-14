@@ -43,4 +43,4 @@ $RECYCLE.BIN/
 
 # Environment Files
 .vagrant
-.node_modules
+node_modules
