@@ -1,0 +1,17 @@
+{
+  "name": "sms-grunt-boilerplate",
+  "version": "1.0.1",
+  "homepage": "https://github.com/singlemaltsites/sms-grunt-boilerplate",
+  "authors": [
+    "Single Malt Sites",
+    "LLC <info@singlemaltsites.com>"
+  ],
+  "description": "Our own grunt-powered boilerplate for static sites, using Bower, BrowserSync, Assemble, and Sass.",
+  "main": "https://github.com/singlemaltsites/sms-grunt-boilerplate",
+  "keywords": [
+    "grunt",
+    "assemble",
+    "sass"
+  ],
+  "license": "MIT"
+}
